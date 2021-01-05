@@ -1,6 +1,7 @@
 {
   "id": 1,
-  "name": "John Doe",
-  "company": "123 Designs",
-  "phone": "444-555-6666"
+  "name": "Luke McCann",
+  "company": "PlanetDebug", 
+  "phone": "07835-635-242",
+  "github": "https://github.com/LukeMcCann"
 }

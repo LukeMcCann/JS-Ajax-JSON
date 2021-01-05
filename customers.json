@@ -1,20 +1,23 @@
 [
   {
     "id": 1,
-    "name": "John Doe",
-    "company": "123 Designs",
-    "phone": "444-555-6666"
+    "name": "Luke McCann",
+    "company": "PlanetDebug", 
+    "phone": "07835-635-242",
+    "github": "https://github.com/LukeMcCann"
   },
   {
     "id": 2,
-    "name": "Steve Smith",
-    "company": "Hello Productions",
-    "phone": "333-222-2222"
+    "name": "Darryl Dolan-Rathmell",
+    "company": "DDRDigital", 
+    "phone": "07823-729-139",
+    "github": "https://github.com/ReaiiyBigShrimp"
   },
   {
     "id": 3,
-    "name": "Tara Williams",
-    "company": "Traversy Media",
-    "phone": "111-222-3333"
+    "name": "Robert McCann",
+    "company": "Bobs Magic", 
+    "phone": "07982-432-987",
+    "github": ""
   }
 ]
